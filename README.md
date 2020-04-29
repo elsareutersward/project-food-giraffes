@@ -8,6 +8,6 @@ The focus of the project was to practice working as a team on a project using Gi
 
 ## View it live
 
-https://hungry-sammet-b47006.netlify.com/
+https://er-project-food.netlify.app/
 
 
